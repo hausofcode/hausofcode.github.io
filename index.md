@@ -1,5 +1,5 @@
-## Spencer Hardy 1 
-### Digital Portfolio
+# Spencer Hardy 
+## Digital Portfolio
 
 [HTML / CSS](/htmlcss)
 
